@@ -13,7 +13,7 @@ Dygraphs for plotting
 
 ## Steps to run the code:  
 1. Clone the github and goto the folder  
-        $git clone https://github.com/SJSU272LabF17/Project-Team-6  
+        $git clone https://github.com/Razin1996/Stock-Prediction-Using-fb-Prophet 
         $cd ./Stock-Prediction-Using-fb-Prophet-master/  
 2. create a virtual environment with python3  
 	$virtualenv -p /usr/local/bin/python3 Dependencies  
